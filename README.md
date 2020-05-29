@@ -1,4 +1,4 @@
-######################################### BLOG DE SALUD 
+###### BLOG DE SALUD 
 ## LOGIN USUARIO: admin Y PASSWORD: 10076465
 ![login](https://user-images.githubusercontent.com/54158226/83209485-81fea580-a126-11ea-93c7-752e42422efe.png)
 ## PANEL
